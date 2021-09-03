@@ -6,7 +6,7 @@ namespace CSharpSandbox
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Prash!");
+            Console.WriteLine("Hello World!");
 
             Footballer Ronaldo = new Footballer("Ronaldo", "Manchester United", 25000000);
 
