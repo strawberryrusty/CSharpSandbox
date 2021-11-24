@@ -8,9 +8,9 @@ namespace CSharpSandbox
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello TEST!");
+            Console.WriteLine("Hello FEATURE!");
 
-            Footballer Ronaldo = new Footballer("Ronaldo", "Manchester United", 25000000);
+            Footballer Ronaldo = new Footballer("Giggs", "Manchester United", 25000000);
             Footballer VanPersie = new Footballer("Van Persie", "Arsenal", 130000);
 
             //Console.WriteLine(Ronaldo.Club);
